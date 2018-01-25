@@ -2,13 +2,6 @@
 一些工具的集合，为了方便大家使用，欢迎大家 Star、Pull Request 中提交推荐工具。
 ## 一、工具篇
 
-### 格式转换
-
-1. [Smallpdf](https://smallpdf.com)：十分好用的PDF格式转换工具。
-2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
-3. [PDF.io](https://pdf.io/tw/)：台湾出品的PDF在线转换工具，功能比SmallPDF强大。
-4. [media.io](media.io/zh)：Media.io是一个支持在线音频格式转换的工具。
-
 ### 白噪音工具
 
 1. [Defonic](http://defonic.com/)：在线版的白噪音生成工具，能让自己更容易专注。
@@ -29,6 +22,13 @@
 4. [ih5](https://www.ih5.cn)：目前中国最强大的H5制作工具，可自定义各种最新的特效，但上手具有一定难度。
 5. [PP匠](http://ppj.io/)：上传PPT，一键生成H5.
 
+### 格式转换
+
+1. [Smallpdf](https://smallpdf.com)：十分好用的PDF格式转换工具。
+2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
+3. [PDF.io](https://pdf.io/tw/)：台湾出品的PDF在线转换工具，功能比SmallPDF强大。
+4. [media.io](media.io/zh)：Media.io是一个支持在线音频格式转换的工具。
+
 ### 网站、小程序设计
 
 1. [上线了](https://www.sxl.cn)：免费创建美观强大的网站，无需专业技术知识与设计经验。
@@ -43,9 +43,8 @@
 ### 图文排版
 
 1. [Markdown Here](http://markdown-here.com/)：公众号最骇客的排版辅助工具。
-2. [秀米](https://xiumi.us/)：目前使用量最高的公众号排版工具。
-3. [i排版](http://ipaiban.com/)：同上，但是页面比较乱。
-4. [135编辑器](https://www.135editor.com/)：同上，但是页面比较乱。
+2. [秀米](https://xiumi.us/)：目前使用量最高的公众号排版工具，个人建议从秀米开始，比较基础。
+3. [135编辑器](https://www.135editor.com/)：135很好的编辑，用完秀米就开始135吧。
 
 ### 视频制作
 
