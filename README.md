@@ -162,3 +162,17 @@
 
 1. [鸠摩搜索](https://www.jiumodiary.com/)：最全的电子书资源站。
 2. [CiLiBaBa](http://heybay.com/)：迅雷磁力下载站。
+
+## 五、实用工具
+
+1. [在线工具]	(http://tool.oschina.net/)
+2. [ICON图标]	(http://www.iconfont.cn)
+3. [快捷命名]	(http://unbug.github.io/codelf/)
+4. [JSON检测]	(http://www.json.cn/)
+5. [工具类大全]	(https://github.com/Blankj/AndroidUtilCode)
+6. [原型设计]	(https://modao.cc/)
+7. [项目备份]	(https://coding.net)
+8. [Bug检测]	(https://bugly.qq.com)
+9. [Jar包大全]	(http://www.manyjar.com/showJarHot)
+10. [文字编码]	(http://tool.chinaz.com/Tools/Unicode.aspx)
+
