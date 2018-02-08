@@ -2,6 +2,19 @@
 一些工具的集合，为了方便大家使用，欢迎大家 Star、Pull Request 中提交推荐工具。
 ## 一、工具篇
 
+### 源码网站/论坛
+1. [掘金]	https://juejin.im/
+2. [GITHUB]	https://github.com/
+3. [安卓周报]	http://androidweekly.cn/
+4. [CSDN]	http://blog.csdn.net/
+        http://lib.csdn.net/base/android
+5. [IT蓝豹]	http://www.itlanbao.com/
+6. [简书]	http://www.jianshu.com/
+7. [开源中国]	http://www.oschina.net/
+8. [A5源码]	http://down.admin5.com/android/
+9. [玩Android]	http://www.wanandroid.com/
+10. [伯乐在线]	http://android.jobbole.com/
+
 ### 白噪音工具
 
 1. [Defonic](http://defonic.com/)：在线版的白噪音生成工具，能让自己更容易专注。
