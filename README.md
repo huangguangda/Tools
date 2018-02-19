@@ -16,6 +16,7 @@
 9. [玩Android]	http://www.wanandroid.com/
 10. [伯乐在线]	http://android.jobbole.com/
 11.  [5nd] http://m.5nd.com/ : 音乐
+12. [gradle] https://services.gradle.org/distributions/
 
 ### 白噪音工具
 
