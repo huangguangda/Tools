@@ -1,6 +1,10 @@
 # Tools
 谢谢了
 一些工具的集合，为了方便大家使用，欢迎大家 Star、Pull Request 中提交推荐工具。
+## 友情链接
+qzs http://qinzishuai.cn
+lzl http://pythonchannel.github.io
+
 ## 一、工具篇
 
 ### 源码网站/论坛
