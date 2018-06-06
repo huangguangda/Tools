@@ -4,7 +4,28 @@
 ## 友情链接
 qzs http://qinzishuai.cn
 lzl http://pythonchannel.github.io
+## 开源项目
 
+地址  |  简介
+---- | ----
+[iOS-Source-Code-Analyze](https://github.com/Draveness/iOS-Source-Code-Analyze)| **收集了优秀的iOS开源框架源代码解析文章，强烈推荐**
+[Yep](https://github.com/CatchChat/Yep)| 社交IM软件YEP，star5000+
+[TeamTalk](https://github.com/mogujie/TeamTalk)| 蘑菇街开源IM，star4500+
+[MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)| 类似微信的IMapp，可发送图片，音频，视频，文字，位置信息等，star3800+
+[仿网易新闻](https://github.com/dsxNiubility/SXNews)| star3000+
+[高仿城觅](https://github.com/ZhongTaoTian/WNXHuntForCity)| star1800+
+[YoCelsius](https://github.com/YouXianMing/YoCelsius)| 天气预报的应用，动画和交互非常丰富，star2300+
+[Coding-iOS](https://github.com/Coding/Coding-iOS)| Coding iOS 客户端源代码, star2600+
+[v2ex](https://github.com/singro/v2ex)| v2ex.com客户端，star1700+
+[高仿微信](https://github.com/gsdios/GSD_WeiXin)| star2000+
+[高仿美团](https://github.com/lookingstars/meituan)|  star1500+
+[高仿喵播APP](https://github.com/SunLiner/MiaowShow)|  视频直播项目，star2000+
+[高仿Bilibili客户端](https://github.com/MichaelHuyp/Bilibili_Wuxianda)| star2000+
+[高仿最美应用](https://github.com/lyimin/beautifulApp)| swift, star800+
+[一个](https://github.com/meilbn/MyOne-iOS)|  《一个》 iOS 客户端, star600+
+[CocoaChina+](https://github.com/zixun/CocoaChinaPlus)|  开源的第三方CocoaChina移动端, star600+
+[高仿百度糯米](https://github.com/lookingstars/nuomi)|  star500+
+[Four](https://github.com/SketchK/FOUR)|  一个上线的任务记录app，star300+
 ## 一、工具篇
 
 ### 源码网站/论坛
