@@ -196,6 +196,44 @@ lzl http://pythonchannel.github.io
 9. [Jar包大全]	(http://www.manyjar.com/showJarHot)
 10. [文字编码]	(http://tool.chinaz.com/Tools/Unicode.aspx)
 
+## 推荐博客、微博或Github
+
+地址  |  简介
+---- | ----
+[WeRead团队博客](http://wereadteam.github.io)| 微信读书团队博客
+[百度Hi iOS团队技术周报](http://baiduhidevios.github.io/)| 百度Hi iOS团队技术周报
+[美团点评技术团队博客](http://tech.meituan.com/)| 美团点评技术团队
+[苹果核](http://pingguohe.net)| 现由天猫无线-基础业务团队主力维护
+[SwiftGG翻译组](http://swift.gg)| 翻译的文章来源于国外的优秀 Swift 网站和博客
+[移动开发前线博客](http://mobilefrontier.github.io/)| 第一时间传递移动开发最新干货内容，与时代保持同步，消除信息焦虑。[微博@移动开发前线](http://weibo.com/bornmobile?from=myfollow_group&is_all=1)
+[sunnyxx的技术博客](http://blog.sunnyxx.com)| 孙源，前百度研发工程师[微博@我就叫Sunny怎么了](http://weibo.com/u/1364395395?topnav=1&wvr=6&topsug=1&is_all=1)
+[Garan no Dou ](http://blog.ibireme.com)| ibireme，YYKit作者
+[叶孤城](https://zhuanlan.zhihu.com/zangqilong)| 大神。[微博@叶孤城___](http://weibo.com/u/1438670852?from=myfollow_group&is_all=1)
+[Kenshin Cui's Blog](http://www.cnblogs.com/kenshincui)| 崔江涛，文章写的非常详细
+[ChenYilong](https://github.com/ChenYilong)| [微博@iOS程序犭袁](http://weibo.com/luohanchenyilong?refer_flag=1005055013_&is_all=1)有iOS9AdaptationTips,iOSInterviewQuestions等多个上千star的项目
+[南峰子的技术博客](http://southpeak.github.io)| 就职于京东金融。[微博@南峰子_老驴](http://weibo.com/touristdiary?refer_flag=1005055013_&is_all=1)
+[FengJian's Blog](http://fengjian0106.github.io)| FengJian's Blog
+[阿毛的蛋疼地](http://xiangwangfeng.com)| 博客从2011年就开始更新了
+[王中周的技术博客](http://foggry.com)| 曾就职于高阳科技、北京拉手网
+[土土哥的技术博客](http://tutuge.me)| 就职于阿里巴巴B2B国际事业部
+[玉令天下的博客](http://yulingtianxia.com)| 腾讯移动开发
+[Casa Taloyum](http://casatwy.com)| iOS应用架构谈系列作者
+[GeekerProbe](http://blog.wtlucky.com)| 曾就职于美丽说，负责美丽说主站APP的开发工作，在时尚圈也有一番打拼，现就职于百度，负责百度知道项目的开发，也因此加入forkingdog开源小组，为iOS的开源社区做出一点贡献。
+[Luke's Homepage](http://geeklu.com)| 2008年开始更新，经验丰富的工程师
+[Zhiyi](https://github.com/liuzhiyi1992/MyshareBlogs)| 他的github上拥有多个超过200star的项目
+[Limboy](http://limboy.me)| 蘑菇街iOS工程师
+[刘坤的技术博客](https://blog.cnbluebox.com)| 现就职于杭州阿里
+[kuailejim](http://kuailejim.com/#blog)| kuailejim
+[高少东](https://github.com/gsdios)| SDAutoLayout作者 [微博@GSD_iOS ](http://weibo.com/gsdios?is_all=1)
+[lzwjava](https://github.com/lzwjava)| 前 LeanCloud 工程师。[微博@lzwjava](http://weibo.com/zhiweilee)
+[唐巧](http://blog.devtang.com)| 猿题库iOS高级研发工程师。[微博@唐巧_boy](http://weibo.com/tangqiaoboy?refer_flag=1005055013_&is_all=1)
+[bestswifter](https://github.com/bestswifter)| [微博@bestswifter](http://weibo.com/bestswifter?refer_flag=1005055013_&is_all=1)
+李明杰| 小码哥CEO。[微博@M了个J](http://weibo.com/exceptions?from=myfollow_group&is_all=1)
+[OneV's Den](https://onevcat.com/#blog)| 王巍，喵神，知名iOS/Unity 开发者，现居日本，就职于LINE[微博@onevcat](http://weibo.com/onevcat?from=myfollow_group)
+[tany](https://github.com/12207480)| Github上有很多干货 [微博@yeBlueColor](http://weibo.com/u/5515296583?refer_flag=1001030101_&is_all=1)
+[微博@GitHubDaily](http://weibo.com/GitHubDaily?from=feed&loc=at&nick=GitHubDaily&is_all=1)| 专注于分享 GitHub 最新的优质开源项目
+[故胤道长](https://www.jianshu.com/u/8d5b91490ca5)| Github全美前20的Swift开源作者。[微博@故胤道长](https://weibo.com/p/1005051827884772/home?from=page_100505&mod=TAB#place)
+
 ## 进阶教程
 
 地址  |  简介
