@@ -1,6 +1,17 @@
 # Tools
 谢谢了
 一些工具的集合，为了方便大家使用，欢迎大家 Star、Pull Request 中提交推荐工具。
+
+地址  |  简介
+---- | ----
+[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)| 6000多个star的iOS学习资料整理
+[SwiftGuide](https://github.com/ipader/SwiftGuide)| 这份指南汇集了Swift语言主流学习资源，接近1W的star
+[TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)| 4000多个star，iOS、mac开源项目及库
+[skill-map](https://github.com/TeamStuQ/skill-map)|  IT技术领域（云计算，大数据，运维，安全，开发语言，智能硬件等）及互联网产品、运营等领域学习技能图谱
+[全球移动技术大会2016](http://pan.baidu.com/s/1o8SvZTK)| 全球移动技术大会2016PPT下载合集
+[atswift-2016-resources](https://github.com/atConf/atswift-2016-resources)| 2016中国Swift开发者大会源文件，包括keynote, pdf 和源工程文件
+[全球移动技术大会2017](http://ppt.geekbang.org/gmtc)| 全球移动技术大会2017PPT下载合集
+
 ## 学习网站
 
 地址  |  简介
