@@ -2,6 +2,11 @@
 谢谢了
 一些工具的集合，为了方便大家使用，欢迎大家 Star、Pull Request 中提交推荐工具。
 
+百度文库下载器免费下载文档下载卷文库会员vip使用方法:输入要百度文库的文档链接，点击提交，显示提交成功后耐心等待就好
+
+http://www.1234866.com/
+
+
 地址  |  简介
 ---- | ----
 [trip-to-iOS](https://github.com/Aufree/trip-to-iOS)| 6000多个star的iOS学习资料整理
