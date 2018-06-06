@@ -196,3 +196,9 @@ lzl http://pythonchannel.github.io
 9. [Jar包大全]	(http://www.manyjar.com/showJarHot)
 10. [文字编码]	(http://tool.chinaz.com/Tools/Unicode.aspx)
 
+## 进阶教程
+
+地址  |  简介
+---- | ----
+斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html)| 有仿写下厨房，Masonry，RAC，RunLoop，插件开发等高级内容
+[WWDC官方视频](https://developer.apple.com/videos/)| 历年WWDC官方视频
