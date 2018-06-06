@@ -282,3 +282,17 @@ lzl http://pythonchannel.github.io
 ---- | ----
 斗鱼直播视频1.[下载地址](http://pan.baidu.com/s/1eSyifOe)2.[在线播放地址](http://reviewcode.cn/video.html)| 有仿写下厨房，Masonry，RAC，RunLoop，插件开发等高级内容
 [WWDC官方视频](https://developer.apple.com/videos/)| 历年WWDC官方视频
+
+地址  |  简介
+---- | ----
+[*智iOS公开课](http://open.itcast.cn/ios/)| *智iOS公开课
+[*智2016年基础班](http://yun.baidu.com/s/1pKYiLwJ)| *智2016基础班
+[*智2013年基础班](http://pan.baidu.com/s/1pKLqjnt)| MJ授课
+[*智2013年就业班](http://pan.baidu.com/s/1eSnvZVk)| MJ授课 解压密码u1ku.taobao.com
+[*智2015广州一期](http://yun.baidu.com/s/1mhdu1z6)| *智2015广州就业班
+[*马2014年8-12月](http://yun.baidu.com/s/1i4qrLAl#path=%252F)| 黑马程序员就业班
+[*马2014年5-8月](http://pan.baidu.com/s/1boJCKDD)| *马程序员就业班
+[小*哥大神班1期](https://pan.baidu.com/s/1o8GpGy2)| MJ，swift版微博项目，ReactiveCocoa，百思不得姐，环信，HTML5
+[小*哥大神班5期](https://yun.baidu.com/s/1slDzMWX)| 新增MVVM，Apple Pay
+小*哥大神班11期| [第一部分](https://pan.baidu.com/s/1jIlVZBg)密码:diyq[第二部分](https://pan.baidu.com/s/1dE2eTSt)密码: a7fx 新增React Native项目
+[小*哥拓展班2期](https://pan.baidu.com/s/1nuCReid)| 码哥FM，直播，码哥课堂，汇编
