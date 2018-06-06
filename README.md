@@ -1,6 +1,16 @@
 # Tools
 谢谢了
 一些工具的集合，为了方便大家使用，欢迎大家 Star、Pull Request 中提交推荐工具。
+## 学习网站
+
+地址  |  简介
+---- | ----
+[objc中国](https://objccn.io/)| 为中国 Objective-C 社区带来最佳实践和先进技术
+[NSHipster中文版](http://nshipster.cn)| NSHipster 关注被忽略的 Objective-C、Swift 和 Cocoa 特性。每周更新。
+[iOS Dev Weekly](http://iosdevweekly.com)| 如果你是老手精通英文，那么这个周刊是非常值得推荐订阅的，该周刊提供行业新闻、最新开发动态、开发工具、代码分享、UI设计、设计师招聘等丰富的资源。
+[Shinobicontrols](https://www.shinobicontrols.com/blog)| The latest technical blog posts
+[iOS Developer Tips](http://iosdevelopertips.com)| Code, tips and tricks for iOS developers
+[Raywenderlich](https://www.raywenderlich.com)| 国外iOS视频教程网站
 ## 友情链接
 qzs http://qinzishuai.cn
 lzl http://pythonchannel.github.io
