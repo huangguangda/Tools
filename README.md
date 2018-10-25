@@ -301,3 +301,76 @@ lzl http://pythonchannel.github.io
 [小*哥大神班5期](https://yun.baidu.com/s/1slDzMWX)| 新增MVVM，Apple Pay
 小*哥大神班11期| [第一部分](https://pan.baidu.com/s/1jIlVZBg)密码:diyq[第二部分](https://pan.baidu.com/s/1dE2eTSt)密码: a7fx 新增React Native项目
 [小*哥拓展班2期](https://pan.baidu.com/s/1nuCReid)| 码哥FM，直播，码哥课堂，汇编
+
+
+### 前端
+
+1.	https://medium.freecodecamp.com/
+2.	https://css-tricks.com/
+3.	http://css-weekly.com/
+4.	https://www.html5rocks.com/en/
+5.	https://mobilewebweekly.com/
+6.	http://www.echojs.com/
+7.	http://us5.campaign-archive1.com/?u=ea228d7061e8bbfa8639666ad&id=68fee2a1f3&e=91389ff35f
+8.	https://www.smashingmagazine.com/
+9.	https://www.sitepoint.com/
+10.	http://javascriptweekly.com/
+11.	http://frontendfocus.co/
+12.	https://frontendfoc.us/
+13.	http://reactjsnewsletter.com/issues
+14.	http://feeds.feedburner.com/html5rocks
+
+
+### 后端
+
+1.	https://hashnode.com/
+2.	http://us4.campaign-archive1.com/?u=9735795484d2e4c204da82a29&id=0f792acd6e&e=e6bacace33
+3.	http://rubyweekly.com/
+4.	https://golangweekly.com/
+5.	https://dbweekly.com/
+6.	https://risingstack.com/
+7.	http://nodeweekly.com/
+8.	https://webopsweekly.com/
+9.	https://postgresweekly.com/
+10.	http://nodeweekly.com
+
+
+### People who do Web Development
+
+1.	https://www.igvita.com
+2.	http://nicolasgallagher.com
+3.	https://www.chenhuijing.com
+4.	http://hakim.se
+5.	https://paulirish.com
+6.	http://www.ruanyifeng.com/blog
+7.	https://matt.aimonetti.net
+8.	http://benediktmeurer.de
+9.	http://josephg.com/blog/
+10.	https://www.justinobeirne.com/essay/
+11.	http://uggedal.com/journal
+12.	http://mezzoblue.com/
+13.	http://jrsinclair.com
+14.	http://notes.iissnan.com/
+15.	http://mrmrs.io/writing
+16.	http://lucasfcosta.com/
+17.	https://chriscoyier.net
+18.	https://blog.mozilla.org
+19.	http://jakearchibald.com/
+20.	http://trentwalton.com/
+21.	http://madebymike.com.au
+22.	http://www.zeldman.com
+
+
+### 产品设计
+
+1.	https://bigmedium.com/
+2.	https://uxdesign.cc/
+3.	http://uxdesignweekly.com/
+4. http://email.jakebresnehan.com/t/ViewEmail/r/AD1DA0E771C8EEE12540EF23F30FEDED
+5.	http://designweekly.atomic.io/
+6.	https://web-design-weekly.com/
+7.	http://findguidelin.es/
+8.	https://web-design-weekly.com
+9.	https://robinrendle.com
+10.	ttp://www.minimallyminimal.com
+11.	LukeW | Digital Product Design + Strategy：http://www.lukew.com
