@@ -95,6 +95,7 @@ lzl http://pythonchannel.github.io
 2. [cloudconvert](https://cloudconvert.com/)：支持更多的格式转换，但稳定性稍差。
 3. [PDF.io](https://pdf.io/tw/)：台湾出品的PDF在线转换工具，功能比SmallPDF强大。
 4. [media.io](media.io/zh)：Media.io是一个支持在线音频格式转换的工具。
+5. [Doc2X](https://doc2x.noedgeai.com/)：AI 文档解析与翻译，PDF、扫描件和图片转 Word、Markdown、LaTeX，识别公式与表格；有免费试用及会员/积分，API 按用量另行计费。
 
 ### 网站、小程序设计
 
