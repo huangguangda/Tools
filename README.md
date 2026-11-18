@@ -242,6 +242,7 @@ lzl http://pythonchannel.github.io
 8. [Bug检测]	(https://bugly.qq.com)
 9. [Jar包大全]	(http://www.manyjar.com/showJarHot)
 10. [文字编码]	(http://tool.chinaz.com/Tools/Unicode.aspx)
+11. [MoeRouter](https://moerouter.com/)：面向开发者的多模型 API 网关，按使用量以人民币计费。
 
 ## 推荐博客、微博或Github
 
