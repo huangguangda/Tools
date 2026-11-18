@@ -112,6 +112,7 @@ lzl http://pythonchannel.github.io
 1. [Markdown Here](http://markdown-here.com/)：公众号最骇客的排版辅助工具。
 2. [秀米](https://xiumi.us/)：目前使用量最高的公众号排版工具，个人建议从秀米开始，比较基础。
 3. [135编辑器](https://www.135editor.com/)：135很好的编辑，用完秀米就开始135吧。
+4. [红鸦 AI](https://hy.ithinkai.cn/)：为小红书笔记生成标题、正文和逐页配图，也支持用商品实拍素材制作种草图文。
 
 ### 视频制作
 
